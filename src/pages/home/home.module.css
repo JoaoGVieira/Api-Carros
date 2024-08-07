@@ -1,0 +1,66 @@
+body{ 
+    background-color: var(--background);
+    
+}
+
+
+.DivPai{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--background);
+
+}
+
+
+.esportivomargin{ 
+    position: relative;
+    margin-top:  5vh;
+    right: 20vh;
+}
+.offroadmargin{ 
+    position: relative;
+    right: 20vh;
+    margin-top:  5vh;
+    margin-bottom: 5vh;
+}
+ 
+.popularmargin{ 
+    position: relative;
+    left: 20vh;
+    margin-top: 5vh;
+}
+
+.luxomargin { 
+    position: relative;
+    left: 20vh;
+    margin-top: 5vh;
+}
+
+.CarroDeLuxo{ 
+    position: relative;
+    bottom: 8vh;
+    left: 3vh;
+}
+
+
+.CarroOffroad{ 
+    position: relative;
+    left: 45vh;
+    bottom: 7vh;
+}
+
+
+.CarroEsportivo{ 
+    position: relative;
+    left: 43vh;
+    bottom: 7vh;
+}
+
+.CarroPopular{ 
+    position: relative;
+    left: 45vh;
+    bottom: 8vh;
+}
+
+
+
